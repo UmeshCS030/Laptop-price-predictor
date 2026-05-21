@@ -500,7 +500,7 @@ if predict_btn:
         )
 
         pred  = model.predict([feature_list])
-        price = np.round(pred[0], 2) * 221
+        price = np.round(pred[0], 2) * 390
 
         st.markdown(f"""
         <div id="result-section" class="result-card">
