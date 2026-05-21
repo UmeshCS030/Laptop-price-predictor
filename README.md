@@ -80,7 +80,7 @@ Laptop_price_predictor/
 ## 📊 Model Details
 
 - **Training data:** Laptop price dataset with brand, specs, and display features
-- **Target variable:** Laptop price (normalized, then multiplied by 221 for LKR conversion)
+- **Target variable:** Laptop price (normalized, then multiplied by 390 for LKR conversion)
 - **Preprocessing:** One-hot encoding for all categorical variables
 - **Model type:** Regression model (trained in Jupyter Notebook, exported as pickle)
 
