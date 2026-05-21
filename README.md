@@ -87,5 +87,5 @@ Laptop_price_predictor/
 ---
 
 <div align="center">
-  <sub>Built using Streamlit &nbsp;|&nbsp; Deployed on Streamlit Community Cloud</sub>
+  <sub>Deployed on Streamlit Community Cloud</sub>
 </div>
