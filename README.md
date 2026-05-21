@@ -60,7 +60,7 @@ Laptop_price_predictor/
 1. User selects laptop specifications via the sidebar
 2. Inputs are **one-hot encoded** to match the training feature set
 3. Encoded features are fed into the trained **pickle model**
-4. Predicted value is multiplied by **221** to convert to LKR
+4. Predicted value is multiplied by **390** to convert to LKR
 5. Result is displayed in a styled card with auto-scroll
 
 ---
